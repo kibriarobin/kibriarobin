@@ -62,6 +62,8 @@ Express · TypeScript · PostgreSQL (NeonDB) · JWT · bcryptjs
 - Resolved TypeScript ESM configuration issues, bundled with `tsup`
 - Deployed on Render
 
+> 💡 *Update the links above once you confirm the exact repo names/URLs for each project.*
+
 ---
 
 ### 🌱 Currently Learning
@@ -74,12 +76,12 @@ Scalable backend APIs, full-stack MERN/PERN applications, and full-stack develop
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golam-kibria97)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/kibriarobin1)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KibriaRobin1)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kibria.robin)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kibriarobin1)
 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kibriarobin97&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+<img src="https://github-readme-stats-three-gamma-93.vercel.app/api?username=kibriarobin97&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -87,5 +89,5 @@ Scalable backend APIs, full-stack MERN/PERN applications, and full-stack develop
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibriarobin97&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-stats-three-gamma-93.vercel.app/api/top-langs/?username=kibriarobin97&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
