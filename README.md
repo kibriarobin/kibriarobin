@@ -41,7 +41,7 @@ from auth and payments to transaction-safe order flows. Currently deepening my s
 
 ### 🚀 Featured Backend Projects
 
-**[GearUp](https://github.com/kibriarobin97) — Sports Equipment Rental Platform API**
+**[GearUp](https://github.com/kibriarobin97/gearup-server) — Sports Equipment Rental Platform API**
 Node.js · Express · TypeScript · Prisma · PostgreSQL
 - JWT authentication with role-based access control
 - SSLCommerz payment gateway integration
@@ -50,19 +50,17 @@ Node.js · Express · TypeScript · Prisma · PostgreSQL
 - Global error handler with keyword-based HTTP status detection
 - Deployed on Vercel
 
-**[Prisma Press](https://github.com/kibriarobin97) — Blog Platform API**
+**[Prisma Press](https://github.com/kibriarobin97/prisma-press-backend) — Blog Platform API**
 Node.js · Express · TypeScript · Prisma · NeonDB · Stripe
 - Auth, Post, and Comment modules with role-based permissions
 - Stripe subscription & webhook integration
 - Reusable `sendResponse` + `catchAsync` architecture
 
-**[DevPulse](https://github.com/kibriarobin97) — Bug & Feature Tracker API**
+**[DevPulse](https://github.com/kibriarobin97/DevPulse) — Bug & Feature Tracker API**
 Express · TypeScript · PostgreSQL (NeonDB) · JWT · bcryptjs
 - Modular project architecture (route/controller/service/interface)
 - Resolved TypeScript ESM configuration issues, bundled with `tsup`
 - Deployed on Render
-
-> 💡 *Update the links above once you confirm the exact repo names/URLs for each project.*
 
 ---
 
