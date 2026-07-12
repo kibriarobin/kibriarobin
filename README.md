@@ -70,7 +70,7 @@ Express · TypeScript · PostgreSQL (NeonDB) · JWT · bcryptjs
 Next.js (SSR) · Docker & NGINX · AI/LLM & RAG integration — as part of the **Next Level Web Development** program (Programming Hero)
 
 ### 🤝 Open to Collaborate On
-Scalable backend APIs, full-stack MERN/PERN applications, and remote full-stack roles
+Scalable backend APIs, full-stack MERN/PERN applications, and full-stack developer roles (remote, hybrid, or onsite)
 
 ### 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golam-kibria97)
