@@ -60,7 +60,7 @@ Node.js · Express · TypeScript · Prisma · NeonDB · Stripe
 Express · TypeScript · PostgreSQL (NeonDB) · JWT · bcryptjs
 - Modular project architecture (route/controller/service/interface)
 - Resolved TypeScript ESM configuration issues, bundled with `tsup`
-- Deployed on Render
+- Deployed on Vercel
 
 ---
 
