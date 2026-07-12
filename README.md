@@ -8,7 +8,7 @@ from auth and payments to transaction-safe order flows. Currently deepening my s
 </p>
 
 <p align="center">
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📫 kibriarobin97@gmail.com &nbsp;|&nbsp; 🎯 Open to remote opportunities
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📫 kibriarobin97@gmail.com &nbsp;|&nbsp; 🎯 Open to remote, hybrid & onsite opportunities
 </p>
 
 ---
