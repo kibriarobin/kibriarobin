@@ -85,9 +85,5 @@ Scalable backend APIs, full-stack MERN/PERN applications, and full-stack develop
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kibriarobin97&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats-three-gamma-93.vercel.app/api/top-langs/?username=kibriarobin97&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
