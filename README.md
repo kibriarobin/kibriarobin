@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Golam Kibria Robin</h1>
-<h3 align="center">Backend-focused MERN / TypeScript Developer | Building production-ready APIs</h3>
+![Banner](./assets/banner.png)
 
-<p align="center">
-I design and build robust backend systems with <b>Node.js, Express, TypeScript, Prisma & PostgreSQL</b> — 
-from auth and payments to transaction-safe order flows. Currently deepening my skills in 
-<b>Next.js, Docker/NGINX, and AI/LLM integration</b> through a structured full-stack program.
-</p>
+<h3 align="center">Golam Kibria — Full Stack Developer</h3>
 
-<p align="center">
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📫 kibriarobin97@gmail.com &nbsp;|&nbsp; 🎯 Open to remote, hybrid & onsite opportunities
-</p>
+### 👋 About Me
+I design and build robust backend systems with **Node.js, Express, TypeScript, Prisma & PostgreSQL** — from auth and payments to transaction-safe order flows. Currently deepening my skills in **Next.js, Docker/NGINX, and AI/LLM integration** through a structured full-stack engineering program.
+
+**🔭 What I'm working on right now:**
+- Exploring **Next.js** — App Router, Server Components, and Server Actions
+- Building backend APIs with **Prisma ORM** and **PostgreSQL**
+- Advancing through an AI-Driven Software Engineering Bootcamp (Docker/NGINX and AI/RAG integration coming up next)
 
 ---
 
@@ -62,6 +61,8 @@ Express · TypeScript · PostgreSQL (NeonDB) · JWT · bcryptjs
 - Resolved TypeScript ESM configuration issues, bundled with `tsup`
 - Deployed on Render
 
+> 💡 *Update the links above once you confirm the exact repo names/URLs for each project.*
+
 ---
 
 ### 🌱 Currently Learning
@@ -74,7 +75,6 @@ Scalable backend APIs, full-stack MERN/PERN applications, and full-stack develop
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golam-kibria97)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/kibriarobin1)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KibriaRobin1)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kibriarobin1)
 
 ---
 
