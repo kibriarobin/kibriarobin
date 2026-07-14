@@ -61,8 +61,6 @@ Express · TypeScript · PostgreSQL (NeonDB) · JWT · bcryptjs
 - Resolved TypeScript ESM configuration issues, bundled with `tsup`
 - Deployed on Render
 
-> 💡 *Update the links above once you confirm the exact repo names/URLs for each project.*
-
 ---
 
 ### 🌱 Currently Learning
