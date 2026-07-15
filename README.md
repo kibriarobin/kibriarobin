@@ -2,14 +2,15 @@
 
 <h2 align="center">Golam Kibria</h2>
 <h4 align="center">Full Stack Developer</h4>
- 
+
 <h3 align="center">👋 About Me</h3>
- 
+
 <p align="center">
 I design and build robust backend systems with <b>Node.js, Express, TypeScript, Prisma & PostgreSQL</b> — 
 from auth and payments to transaction-safe order flows. Currently deepening my skills in 
 <b>Next.js, Docker/NGINX, and AI/LLM integration</b> through a structured full-stack engineering program.
 </p>
+
 **🔭 What I'm working on right now:**
 - Exploring **Next.js** — App Router, Server Components, and Server Actions
 - Building backend APIs with **Prisma ORM** and **PostgreSQL**
@@ -65,6 +66,8 @@ Express · TypeScript · PostgreSQL (NeonDB) · JWT · bcryptjs
 - Modular project architecture (route/controller/service/interface)
 - Resolved TypeScript ESM configuration issues, bundled with `tsup`
 - Deployed on Render
+
+> 💡 *Update the links above once you confirm the exact repo names/URLs for each project.*
 
 ---
 
