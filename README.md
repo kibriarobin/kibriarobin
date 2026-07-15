@@ -12,9 +12,9 @@ from auth and payments to transaction-safe order flows. Currently deepening my s
 </p>
 
 **🔭 What I'm working on right now:**
-- Exploring **Next.js** — App Router, Server Components, and Server Actions
+- Exploring **Next.js (SSR)** — App Router, Server Components, and Server Actions
 - Building backend APIs with **Prisma ORM** and **PostgreSQL**
-- Advancing through an AI-Driven Software Engineering Bootcamp (Docker/NGINX and AI/RAG integration coming up next)
+- Advancing through the **Next Level Web Development** program (Programming Hero) — up next: **Docker & NGINX** and **AI/LLM & RAG integration**
 
 ---
 
@@ -67,12 +67,7 @@ Express · TypeScript · PostgreSQL (NeonDB) · JWT · bcryptjs
 - Resolved TypeScript ESM configuration issues, bundled with `tsup`
 - Deployed on Render
 
-> 💡 *Update the links above once you confirm the exact repo names/URLs for each project.*
-
 ---
-
-### 🌱 Currently Learning
-Next.js (SSR) · Docker & NGINX · AI/LLM & RAG integration — as part of the **Next Level Web Development** program (Programming Hero)
 
 ### 🤝 Open to Collaborate On
 Scalable backend APIs, full-stack MERN/PERN applications, and full-stack developer roles (remote, hybrid, or onsite)
