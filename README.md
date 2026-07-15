@@ -1,6 +1,6 @@
 ![Banner](./assets/banner.png)
 
-<h2 align="center">Hi 👋, I'm Golam Kibria</h2>
+<h1 align="center">Hi 👋, I'm Golam Kibria</h1>
 <h4 align="center">Full Stack Developer</h4>
 
 ### 👋 About Me
@@ -46,7 +46,7 @@ from auth and payments to transaction-safe order flows. Currently deepening my s
 
 ### 🚀 Featured Backend Projects
 
-**[GearUp](https://github.com/kibriarobin97) — Sports Equipment Rental Platform API**
+**[GearUp](https://github.com/kibriarobin) — Sports Equipment Rental Platform API**
 Node.js · Express · TypeScript · Prisma · PostgreSQL
 - JWT authentication with role-based access control
 - SSLCommerz payment gateway integration
@@ -55,13 +55,13 @@ Node.js · Express · TypeScript · Prisma · PostgreSQL
 - Global error handler with keyword-based HTTP status detection
 - Deployed on Vercel
 
-**[Prisma Press](https://github.com/kibriarobin97) — Blog Platform API**
+**[Prisma Press](https://github.com/kibriarobin) — Blog Platform API**
 Node.js · Express · TypeScript · Prisma · NeonDB · Stripe
 - Auth, Post, and Comment modules with role-based permissions
 - Stripe subscription & webhook integration
 - Reusable `sendResponse` + `catchAsync` architecture
 
-**[DevPulse](https://github.com/kibriarobin97) — Bug & Feature Tracker API**
+**[DevPulse](https://github.com/kibriarobin) — Bug & Feature Tracker API**
 Express · TypeScript · PostgreSQL (NeonDB) · JWT · bcryptjs
 - Modular project architecture (route/controller/service/interface)
 - Resolved TypeScript ESM configuration issues, bundled with `tsup`
@@ -80,9 +80,9 @@ Scalable backend APIs, full-stack MERN/PERN applications, and full-stack develop
 ---
 
 <p align="center">
-<img src="https://github-readme-stats-three-gamma-93.vercel.app/api?username=kibriarobin97&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-three-gamma-93.vercel.app/api?username=kibriarobin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-three-gamma-93.vercel.app/api/top-langs/?username=kibriarobin97&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats-three-gamma-93.vercel.app/api/top-langs/?username=kibriarobin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
