@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Golam Kibria</h2>
 <h4 align="center">Full Stack Developer</h4>
 
-<h3 align="center">👋 About Me</h3>
+### 👋 About Me
 
 <p align="center">
 I design and build robust backend systems with <b>Node.js, Express, TypeScript, Prisma & PostgreSQL</b> — 
