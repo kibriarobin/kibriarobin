@@ -1,6 +1,6 @@
 ![Banner](./assets/banner.png)
 
-<h2 align="center">Golam Kibria</h2>
+<h3 align="center">Hi 👋, I'm Golam Kibria</h3>
 <h4 align="center">Full Stack Developer</h4>
 
 <h3 align="center">👋 About Me</h3>
