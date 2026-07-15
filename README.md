@@ -1,7 +1,7 @@
 ![Banner](./assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Golam Kibria</h1>
-<h4 align="center">Full Stack Developer</h4>
+<h3 align="center">Full Stack Developer</h3>
 
 ### 👋 About Me
 
